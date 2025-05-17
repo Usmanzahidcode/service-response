@@ -1,0 +1,19 @@
+{
+    "name": "usmanzahid/service-response",
+    "description": "A simple and effective way of communication between differetn sevrices among your PHP application.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Usmanzahid\\ServiceResponse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Usman Zahid",
+            "email": "developerusman@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
