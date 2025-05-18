@@ -1,7 +1,6 @@
 <?php
 
-namespace UsmanZahid\ServiceResponse;
-
+namespace Usmanzahid\ServiceResponse;
 
 class ServiceResponse {
     private ?string $message = null;
@@ -91,3 +90,4 @@ class ServiceResponse {
         ];
     }
 }
+

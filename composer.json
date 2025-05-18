@@ -1,6 +1,6 @@
 {
     "name": "usmanzahid/service-response",
-    "description": "A simple and effective way of communication between differetn sevrices among your PHP application.",
+    "description": "A simple and effective way of communication between different services among your PHP application.",
     "type": "library",
     "license": "MIT",
     "autoload": {
